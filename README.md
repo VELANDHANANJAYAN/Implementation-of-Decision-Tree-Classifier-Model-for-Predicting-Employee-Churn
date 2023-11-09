@@ -61,7 +61,13 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ## Output:
 ![image](https://github.com/VELANDHANANJAYAN/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119405038/e93c01c7-cf39-4650-b80b-f8fc2d78b284)
-
+![image](https://github.com/VELANDHANANJAYAN/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119405038/2e17d6d6-fe06-45b9-844f-19caf6376b02)
+![image](https://github.com/VELANDHANANJAYAN/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119405038/07fe46c6-545c-4476-8020-21c10917e447)
+![image](https://github.com/VELANDHANANJAYAN/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119405038/5d4b790c-9d52-4aed-9380-71c16d822955)
+![image](https://github.com/VELANDHANANJAYAN/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119405038/ebc57a39-8df7-4f79-b81e-b61d12107c45)
+![image](https://github.com/VELANDHANANJAYAN/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119405038/2000bb28-270b-4f3c-bbc0-5d297456e1e8)
+![image](https://github.com/VELANDHANANJAYAN/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119405038/793ac355-bd48-4ed8-bc25-60b787a6f9e1)
+![image](https://github.com/VELANDHANANJAYAN/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119405038/82601c53-c7ca-499e-b312-0629e30d137d)
 
 
 ## Result:
